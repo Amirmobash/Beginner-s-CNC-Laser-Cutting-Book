@@ -1,0 +1,9 @@
+{
+  "repository": "https://github.com/Amirmobash/Beginner-s-CNC-Laser-Cutting-Book",
+  "branch": "main",
+  "verified_public_checkpoint": "9dad72fe1c09d3c59da4ad18ec3e71a8d0a7cc23",
+  "verification": "git push succeeded; git ls-remote origin refs/heads/main returned identical full SHA",
+  "public_visibility": "confirmed via GitHub repository metadata",
+  "scope": "Public infrastructure, research metadata, reviews and status only. Complete commercial content retained locally.",
+  "next_commit": "This record is included in a subsequent documentation commit; read current HEAD for the latest revision."
+}

@@ -18,7 +18,7 @@ Ace did not complete due managed browser file:// policy. Office-application DOCX
 
 ## Public Git/privacy
 
-Repository visibility confirmed PUBLIC. Full commercial manuscript, engineered geometry/generator, illustrations/generator, cover and output files are ignored and intentionally withheld. Generic setup/build/validation scripts, research metadata and review/status documentation are eligible for this public push. Do not force-add ignored files. The latest successful delivered Git checkpoint will be recorded in quality/REMOTE_DELIVERY.json after verification; current commit identity is read with git rev-parse HEAD.
+Repository visibility confirmed PUBLIC. Full commercial manuscript, engineered geometry/generator, illustrations/generator, cover and output files are ignored and intentionally withheld. Generic setup/build/validation scripts, research metadata and review/status documentation are eligible for this public push. Do not force-add ignored files. Public checkpoint 9dad72fe1c09d3c59da4ad18ec3e71a8d0a7cc23 was successfully pushed and verified with git ls-remote. The delivery record is in quality/REMOTE_DELIVERY.json; later documentation commits may follow. Read git rev-parse HEAD for the latest commit identity.
 
 ## Remaining work and external blockers
 
