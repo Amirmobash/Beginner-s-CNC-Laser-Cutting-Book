@@ -1,0 +1,296 @@
+{
+  "date": "2026-11-04T18:15:53.657Z",
+  "testTools": {
+    "epubjs": "0.3.93",
+    "jszip": "3.10.1",
+    "axePlaywright": "4.10.2",
+    "playwright": "1.62.1",
+    "chromium": "155.0.8059.79"
+  },
+  "artifacts": {
+    "epubSha256": "a22362d2fd5bb2dd21f002b8f0f34450b91f6801e287e6207bcae07890d3afb7",
+    "htmlSha256": "9b26f6d1e5006528a6663a3bc62e27b095afbe6d20c63dace5d82c74078c4a43"
+  },
+  "html": [
+    {
+      "heading": "CNC & Laser für Einsteiger: Deine erste Geschenkbox aus Holz",
+      "headings": 105,
+      "navLinks": 12,
+      "images": 34,
+      "loadedImages": 34,
+      "brokenImages": [],
+      "documentWidth": 1280,
+      "viewportWidth": 1280,
+      "horizontalOverflow": false,
+      "brokenNavigation": [],
+      "axe": {
+        "violations": [],
+        "incomplete": [],
+        "passes": 20
+      },
+      "viewport": 1280
+    },
+    {
+      "heading": "CNC & Laser für Einsteiger: Deine erste Geschenkbox aus Holz",
+      "headings": 105,
+      "navLinks": 12,
+      "images": 34,
+      "loadedImages": 34,
+      "brokenImages": [],
+      "documentWidth": 375,
+      "viewportWidth": 375,
+      "horizontalOverflow": false,
+      "brokenNavigation": [],
+      "axe": {
+        "violations": [],
+        "incomplete": [],
+        "passes": 20
+      },
+      "viewport": 375
+    }
+  ],
+  "epub": [
+    {
+      "heading": "1 · Wir bauen eine Geschenkbox",
+      "headings": 7,
+      "navLinks": 0,
+      "images": 4,
+      "loadedImages": 4,
+      "brokenImages": [],
+      "documentWidth": 1280,
+      "viewportWidth": 1280,
+      "horizontalOverflow": false,
+      "viewport": 1280,
+      "spineHref": "chapter_01.xhtml",
+      "readerBook": {
+        "spineItems": 13,
+        "navigationItems": 12,
+        "title": "CNC & Laser für Einsteiger: Deine erste Geschenkbox aus Holz",
+        "brokenNavigation": []
+      },
+      "jsErrors": []
+    },
+    {
+      "heading": "4 · G-Code verstehen, ohne Programmierer zu sein",
+      "headings": 7,
+      "navLinks": 0,
+      "images": 4,
+      "loadedImages": 4,
+      "brokenImages": [],
+      "documentWidth": 1280,
+      "viewportWidth": 1280,
+      "horizontalOverflow": false,
+      "viewport": 1280,
+      "spineHref": "chapter_04.xhtml",
+      "readerBook": {
+        "spineItems": 13,
+        "navigationItems": 12,
+        "title": "CNC & Laser für Einsteiger: Deine erste Geschenkbox aus Holz",
+        "brokenNavigation": []
+      },
+      "jsErrors": []
+    },
+    {
+      "heading": "5 · Unsere Geschenkbox am Computer zeichnen",
+      "headings": 7,
+      "navLinks": 0,
+      "images": 4,
+      "loadedImages": 4,
+      "brokenImages": [],
+      "documentWidth": 1280,
+      "viewportWidth": 1280,
+      "horizontalOverflow": false,
+      "viewport": 1280,
+      "spineHref": "chapter_05.xhtml",
+      "readerBook": {
+        "spineItems": 13,
+        "navigationItems": 12,
+        "title": "CNC & Laser für Einsteiger: Deine erste Geschenkbox aus Holz",
+        "brokenNavigation": []
+      },
+      "jsErrors": []
+    },
+    {
+      "heading": "6 · Aus der Zeichnung wird ein Laserauftrag",
+      "headings": 7,
+      "navLinks": 0,
+      "images": 3,
+      "loadedImages": 3,
+      "brokenImages": [],
+      "documentWidth": 1280,
+      "viewportWidth": 1280,
+      "horizontalOverflow": false,
+      "viewport": 1280,
+      "spineHref": "chapter_06.xhtml",
+      "readerBook": {
+        "spineItems": 13,
+        "navigationItems": 12,
+        "title": "CNC & Laser für Einsteiger: Deine erste Geschenkbox aus Holz",
+        "brokenNavigation": []
+      },
+      "jsErrors": []
+    },
+    {
+      "heading": "8 · Jetzt kommt die CNC-Fräse",
+      "headings": 7,
+      "navLinks": 0,
+      "images": 4,
+      "loadedImages": 4,
+      "brokenImages": [],
+      "documentWidth": 1280,
+      "viewportWidth": 1280,
+      "horizontalOverflow": false,
+      "viewport": 1280,
+      "spineHref": "chapter_08.xhtml",
+      "readerBook": {
+        "spineItems": 13,
+        "navigationItems": 12,
+        "title": "CNC & Laser für Einsteiger: Deine erste Geschenkbox aus Holz",
+        "brokenNavigation": []
+      },
+      "jsErrors": []
+    },
+    {
+      "heading": "9 · Deine erste fertige CNC-Geschenkbox",
+      "headings": 7,
+      "navLinks": 0,
+      "images": 3,
+      "loadedImages": 3,
+      "brokenImages": [],
+      "documentWidth": 1280,
+      "viewportWidth": 1280,
+      "horizontalOverflow": false,
+      "viewport": 1280,
+      "spineHref": "chapter_09.xhtml",
+      "readerBook": {
+        "spineItems": 13,
+        "navigationItems": 12,
+        "title": "CNC & Laser für Einsteiger: Deine erste Geschenkbox aus Holz",
+        "brokenNavigation": []
+      },
+      "jsErrors": []
+    },
+    {
+      "heading": "1 · Wir bauen eine Geschenkbox",
+      "headings": 7,
+      "navLinks": 0,
+      "images": 4,
+      "loadedImages": 4,
+      "brokenImages": [],
+      "documentWidth": 375,
+      "viewportWidth": 375,
+      "horizontalOverflow": false,
+      "viewport": 375,
+      "spineHref": "chapter_01.xhtml",
+      "readerBook": {
+        "spineItems": 13,
+        "navigationItems": 12,
+        "title": "CNC & Laser für Einsteiger: Deine erste Geschenkbox aus Holz",
+        "brokenNavigation": []
+      },
+      "jsErrors": []
+    },
+    {
+      "heading": "4 · G-Code verstehen, ohne Programmierer zu sein",
+      "headings": 7,
+      "navLinks": 0,
+      "images": 4,
+      "loadedImages": 4,
+      "brokenImages": [],
+      "documentWidth": 375,
+      "viewportWidth": 375,
+      "horizontalOverflow": false,
+      "viewport": 375,
+      "spineHref": "chapter_04.xhtml",
+      "readerBook": {
+        "spineItems": 13,
+        "navigationItems": 12,
+        "title": "CNC & Laser für Einsteiger: Deine erste Geschenkbox aus Holz",
+        "brokenNavigation": []
+      },
+      "jsErrors": []
+    },
+    {
+      "heading": "5 · Unsere Geschenkbox am Computer zeichnen",
+      "headings": 7,
+      "navLinks": 0,
+      "images": 4,
+      "loadedImages": 4,
+      "brokenImages": [],
+      "documentWidth": 375,
+      "viewportWidth": 375,
+      "horizontalOverflow": false,
+      "viewport": 375,
+      "spineHref": "chapter_05.xhtml",
+      "readerBook": {
+        "spineItems": 13,
+        "navigationItems": 12,
+        "title": "CNC & Laser für Einsteiger: Deine erste Geschenkbox aus Holz",
+        "brokenNavigation": []
+      },
+      "jsErrors": []
+    },
+    {
+      "heading": "6 · Aus der Zeichnung wird ein Laserauftrag",
+      "headings": 7,
+      "navLinks": 0,
+      "images": 3,
+      "loadedImages": 3,
+      "brokenImages": [],
+      "documentWidth": 375,
+      "viewportWidth": 375,
+      "horizontalOverflow": false,
+      "viewport": 375,
+      "spineHref": "chapter_06.xhtml",
+      "readerBook": {
+        "spineItems": 13,
+        "navigationItems": 12,
+        "title": "CNC & Laser für Einsteiger: Deine erste Geschenkbox aus Holz",
+        "brokenNavigation": []
+      },
+      "jsErrors": []
+    },
+    {
+      "heading": "8 · Jetzt kommt die CNC-Fräse",
+      "headings": 7,
+      "navLinks": 0,
+      "images": 4,
+      "loadedImages": 4,
+      "brokenImages": [],
+      "documentWidth": 375,
+      "viewportWidth": 375,
+      "horizontalOverflow": false,
+      "viewport": 375,
+      "spineHref": "chapter_08.xhtml",
+      "readerBook": {
+        "spineItems": 13,
+        "navigationItems": 12,
+        "title": "CNC & Laser für Einsteiger: Deine erste Geschenkbox aus Holz",
+        "brokenNavigation": []
+      },
+      "jsErrors": []
+    },
+    {
+      "heading": "9 · Deine erste fertige CNC-Geschenkbox",
+      "headings": 7,
+      "navLinks": 0,
+      "images": 3,
+      "loadedImages": 3,
+      "brokenImages": [],
+      "documentWidth": 375,
+      "viewportWidth": 375,
+      "horizontalOverflow": false,
+      "viewport": 375,
+      "spineHref": "chapter_09.xhtml",
+      "readerBook": {
+        "spineItems": 13,
+        "navigationItems": 12,
+        "title": "CNC & Laser für Einsteiger: Deine erste Geschenkbox aus Holz",
+        "brokenNavigation": []
+      },
+      "jsErrors": []
+    }
+  ],
+  "failures": [],
+  "passed": true
+}

@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "errors": [],
+  "checks": [
+    {
+      "check": "epub_structure",
+      "spine_sections": 13,
+      "manifest_items": 49,
+      "xhtml_documents": 14,
+      "images": 34
+    }
+  ],
+  "epubcheck": {
+    "status": "passed",
+    "exit_code": 0,
+    "stdout": "Validating using EPUB version 3.4 rules.\nNo errors or warnings detected.\nMessages: 0 fatals / 0 errors / 0 warnings / 0 infos\n\nEPUBCheck completed\n",
+    "stderr": ""
+  },
+  "limitations": [
+    "EPUB structure/EPUBCheck are not a legal accessibility assessment or a reading-system compatibility test."
+  ]
+}

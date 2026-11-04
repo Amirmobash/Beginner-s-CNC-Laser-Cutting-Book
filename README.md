@@ -1,25 +1,36 @@
-# CNC-Fräsen und Laserschneiden für absolute Anfänger
+# CNC & Laser für Einsteiger: Deine erste Geschenkbox aus Holz
 
-Deutscher praktischer Buchentwurf für Erwachsene ohne CAD-/CAM-Erfahrung. Zwei getrennte Lernwege führen zum 120 × 80 mm CNC-Namensschild und zum 100 × 60 mm Laserschild. **Arbeitsmanuskript: NICHT ZUR VERÖFFENTLICHUNG FREIGEGEBEN.**
+Author: **Amir Mobasheraghdam**. Reader language: German (de-DE), informal “du”. This digital-first technical working manuscript follows one personalized plywood gift box from design and laser cutting to assembly and CNC name engraving on the separate lid.
 
-## Bauen und prüfen
+**Not approved for commercial publication or unattended manufacturing.** No physical prototype has been manufactured in this environment. Current publisher terms, exact hardware suitability, practical machining, rights and genuine human authorship remain review gates.
 
-Voraussetzungen: Python 3.12, Pandoc 3.1.11.1, Inkscape 1.4, FreeCAD 1.0.0 für das native CAD-Modell, Java für EPUBCheck. Linux-Buildumgebung; die Windows-Anleitungen benötigen einen gesonderten Praxistest.
+## Public repository boundary
+
+This repository is public. The latest author instruction withholds the complete commercial manuscript, engineering product files, illustrations, cover and publication outputs until explicit public-distribution approval or a private repository is available. `.gitignore` enforces this boundary. The public repository contains build/validation infrastructure, research metadata and status documentation. A public clone alone intentionally cannot reconstruct the withheld book. No deployment or publisher submission has occurred.
+
+## Local production environment
+
+Prepared tools: Python 3.12, Pandoc 3.1.11.1, Inkscape 1.4, FreeCAD 1.0.0 and Java. Python packages are pinned in `requirements.txt`. The Linux operation checks do not establish that Windows tutorials have been tested.
 
 ```sh
 python -m venv /workspace/book-venv
 /workspace/book-venv/bin/pip install -r requirements.txt
+# These commands require the locally retained manuscript and product assets:
 /workspace/book-venv/bin/python scripts/build_book.py
 /workspace/book-venv/bin/python scripts/validate_assets.py
+/workspace/book-venv/bin/python scripts/validate_references.py
 /workspace/book-venv/bin/python scripts/validate_epub.py
+/workspace/book-venv/bin/python scripts/check_project.py
 ```
 
-Die EPUB-, DOCX- und PDF-Dateien stehen unter `output/`. `manuscript/` enthält die editierbaren Kapitel, `figures/` SVG und PNG, `projects/` die separaten Übungsdateien. `research/` dokumentiert Quellen, Aussagen und Abrufbelege; `publishing/` enthält die Autoren- und Verlagsprüfpunkte. Status und tatsächlich ausgeführte Prüfungen: `PROJECT_STATE.md` und `quality/`.
+Local source directories: `manuscript/`, `engineering/`, `figures/`, `cover/`. Editions: `output/CNC_Laser_Geschenkbox_Amir_Mobasheraghdam.docx`, `output/CNC_Laser_Geschenkbox_Digital.pdf`, `output/CNC_Laser_Geschenkbox.epub`, `output/web/index.html`. Reader downloads: `output/reader_project_files.zip`.
 
-Alle Maschinenprogramme sind ausschließlich Lehrbeispiele. Es gibt keine universell freigegebenen Fertigungsparameter. Keine Maschine wurde in dieser Cloud betrieben. Keine praktische Freigabe durch Fachpersonal ist erfolgt.
+## Evidence and limitations
 
-## Recherche und Rechte
+`research/` records accessed original sources, claim mapping, software comparisons, hardware questions and blocked requests. URLs alone are not verification. Current prices and inaccessible official publisher policies are not fabricated. `publishing/` distinguishes a generated manuscript from genuine author approval and channel eligibility. `quality/` and `PROJECT_STATE.md` record executed checks and remaining work.
 
-Primärquellen werden mit Abrufdatum, Aussage, Kapitelzuordnung und Beleg-Hash erfasst. Ein erfolgreicher Abruf bedeutet noch keine fachliche Freigabe. Nicht erreichbare Quellen werden als solche geführt. Quellcode aus Entwicklungszweigen beweist keine identischen Menüs in installierten Versionen.
+Diagrams are original explanations, not fabricated application screenshots or workshop photographs. Machine-independent learning examples are not production programs; no universal laser power, spindle speed, feed or engraving depth is prescribed. A manufacturer-compatible machine configuration, supervised first run, material test and suitable workholding are necessary.
 
-Die Texte und Diagramme wurden KI-gestützt erstellt. Menschliche technische Prüfung, eigenständige schöpferische Autorenarbeit, echte Werkstattfotos, Rechteprüfung und Klärung der aktuellen BoD-Bedingungen bleiben Voraussetzung einer kommerziellen Ausgabe. Eine Korrekturlesung allein begründet keine BoD-Eignung. Keine ISBN, Identität oder Genehmigung wird erfunden. Öffentliche GitHub-Dateien sind herunterladbar; öffentliche Verfügbarkeit ist keine pauschale Lizenz für Marken oder eingebundene Fremdquellen. Fremde Belege behalten ihre jeweiligen Lizenzen.
+Public availability of project metadata grants no blanket permission to use trademarks, third-party material or unreviewed content commercially. Full-source excerpts used as local evidence are excluded from Git and book editions. The project has no invented ISBN, endorsements, hardware test results or publisher approval.
+
+Additional verification: `python scripts/verify_reproducibility.py` repeats the six-output build; `node scripts/check_browser.cjs` runs local HTTP browser/EPUB.js/axe checks with tools restored by `bash scripts/setup_tools.sh`. `python scripts/package_private_delivery.py` creates a **local-only** full production ZIP; it does not upload or stage content.

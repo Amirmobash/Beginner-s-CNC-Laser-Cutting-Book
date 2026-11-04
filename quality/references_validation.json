@@ -1,0 +1,31 @@
+{
+  "status": "passed",
+  "errors": [],
+  "warnings": [
+    "Unretrieved source S05",
+    "Unretrieved source S16",
+    "Unretrieved source S17"
+  ],
+  "registered_sources": 31,
+  "cited_source_ids": [
+    "S01",
+    "S02",
+    "S03",
+    "S06",
+    "S08",
+    "S09",
+    "S10",
+    "S18",
+    "S19",
+    "S20",
+    "S24",
+    "S26",
+    "S27",
+    "S28",
+    "S29"
+  ],
+  "hash_verified_evidence": 27,
+  "limitations": [
+    "URL syntax and evidence integrity checked offline; current external availability, rights, and factual correctness require separate source review."
+  ]
+}

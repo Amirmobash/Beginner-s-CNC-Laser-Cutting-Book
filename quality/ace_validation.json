@@ -1,0 +1,13 @@
+{
+  "tool": "Ace by DAISY",
+  "version": "1.4.6",
+  "installation": "completed with npm integrity verification; system Chromium selected",
+  "status": "uncompleted",
+  "exit_code": 1,
+  "epub_sha256": "4eb07b12c4c60b4000da581836dbb484a9ec633332c383b866cf49039cd2f4b7",
+  "command": "PUPPETEER_EXECUTABLE_PATH=/usr/bin/chromium ace-puppeteer -E -f -o quality/ace output/CNC_Laser_Geschenkbox.epub",
+  "reason": "System Chromium returned net::ERR_BLOCKED_BY_ADMINISTRATOR for Ace temporary file:///tmp/.../EPUB/*.xhtml content. Full content checks did not complete.",
+  "limitations": [
+    "No Ace pass claim. Browser policy was left intact. Separate HTTP/browser axe and EPUBCheck results are reported independently."
+  ]
+}

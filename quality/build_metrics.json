@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-04",
+  "sources": [
+    "manuscript/frontmatter.md",
+    "manuscript/chapter_01.md",
+    "manuscript/chapter_02.md",
+    "manuscript/chapter_03.md",
+    "manuscript/chapter_04.md",
+    "manuscript/chapter_05.md",
+    "manuscript/chapter_06.md",
+    "manuscript/chapter_07.md",
+    "manuscript/chapter_08.md",
+    "manuscript/chapter_09.md",
+    "manuscript/appendix.md",
+    "manuscript/bibliography.md"
+  ],
+  "chapters": 9,
+  "pdf_pages": 60,
+  "artifacts": {
+    "output/CNC_Laser_Geschenkbox_Digital.pdf": {
+      "bytes": 2896383,
+      "sha256": "96d459650d28893a1e63fa9561694fc8d7ff4482854feebcafc27e554727a3fc"
+    },
+    "output/CNC_Laser_Geschenkbox_Amir_Mobasheraghdam.docx": {
+      "bytes": 1937037,
+      "sha256": "6cb8b0f99d32712308fa37f4b4047204e2315b566e9afa82393f0f11a3669828"
+    },
+    "output/CNC_Laser_Geschenkbox.epub": {
+      "bytes": 2240511,
+      "sha256": "a22362d2fd5bb2dd21f002b8f0f34450b91f6801e287e6207bcae07890d3afb7"
+    },
+    "output/reader_project_files.zip": {
+      "bytes": 467246,
+      "sha256": "10973065d61e01453ee2a3010762178e2f45b082ee7c0645de04ee3ef4a35eb4"
+    },
+    "output/web/index.html": {
+      "bytes": 3660100,
+      "sha256": "9b26f6d1e5006528a6663a3bc62e27b095afbe6d20c63dace5d82c74078c4a43"
+    },
+    "output/COVER.jpg": {
+      "bytes": 532123,
+      "sha256": "52f4de72fd6c7313a2d3d85badd78013564edcefc03581a6b9ca4a0a7c3c073a"
+    }
+  },
+  "word_count": 14578,
+  "reproducibility": "Byte-identical repeated local build verified for all six artifacts."
+}

@@ -1,0 +1,33 @@
+{
+  "status": "passed",
+  "errors": [],
+  "checks": [
+    {
+      "check": "manuscript_files",
+      "count": 12
+    },
+    {
+      "check": "docx_editable",
+      "paragraphs": 632,
+      "image_instances": 33,
+      "embedded_media": 33
+    },
+    {
+      "check": "pdf_searchable",
+      "pages": 60,
+      "characters": 111299,
+      "bookmarks": 26,
+      "page_target_45_60": true
+    },
+    {
+      "check": "html_navigation_and_images",
+      "headings": 105,
+      "images": 34
+    }
+  ],
+  "unique_referenced_images": 33,
+  "caption_instances": 33,
+  "limitations": [
+    "Checks detect structural failures; they do not establish instructional correctness or legal accessibility compliance."
+  ]
+}

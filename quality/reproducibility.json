@@ -1,0 +1,39 @@
+{
+  "status": "passed",
+  "build_exit_code": 0,
+  "inputs_unchanged": true,
+  "compared_artifacts": {
+    "CNC_Laser_Geschenkbox_Digital.pdf": {
+      "before": "96d459650d28893a1e63fa9561694fc8d7ff4482854feebcafc27e554727a3fc",
+      "after": "96d459650d28893a1e63fa9561694fc8d7ff4482854feebcafc27e554727a3fc",
+      "identical": true
+    },
+    "CNC_Laser_Geschenkbox_Amir_Mobasheraghdam.docx": {
+      "before": "6cb8b0f99d32712308fa37f4b4047204e2315b566e9afa82393f0f11a3669828",
+      "after": "6cb8b0f99d32712308fa37f4b4047204e2315b566e9afa82393f0f11a3669828",
+      "identical": true
+    },
+    "CNC_Laser_Geschenkbox.epub": {
+      "before": "a22362d2fd5bb2dd21f002b8f0f34450b91f6801e287e6207bcae07890d3afb7",
+      "after": "a22362d2fd5bb2dd21f002b8f0f34450b91f6801e287e6207bcae07890d3afb7",
+      "identical": true
+    },
+    "reader_project_files.zip": {
+      "before": "10973065d61e01453ee2a3010762178e2f45b082ee7c0645de04ee3ef4a35eb4",
+      "after": "10973065d61e01453ee2a3010762178e2f45b082ee7c0645de04ee3ef4a35eb4",
+      "identical": true
+    },
+    "web/index.html": {
+      "before": "9b26f6d1e5006528a6663a3bc62e27b095afbe6d20c63dace5d82c74078c4a43",
+      "after": "9b26f6d1e5006528a6663a3bc62e27b095afbe6d20c63dace5d82c74078c4a43",
+      "identical": true
+    },
+    "COVER.jpg": {
+      "before": "52f4de72fd6c7313a2d3d85badd78013564edcefc03581a6b9ca4a0a7c3c073a",
+      "after": "52f4de72fd6c7313a2d3d85badd78013564edcefc03581a6b9ca4a0a7c3c073a",
+      "identical": true
+    }
+  },
+  "build_stderr": "",
+  "scope": "Repeat build in the prepared local environment; no claim of restoration from a fresh remote clone."
+}
