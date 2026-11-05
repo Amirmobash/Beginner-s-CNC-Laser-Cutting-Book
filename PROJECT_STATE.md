@@ -25,3 +25,7 @@ Repository visibility confirmed PUBLIC. Full commercial manuscript, engineered g
 Official current publisher, legal and manufacturer pages returned explicit proxy403. Network additions plus tested install_script/start_skill are saved in the environment configuration draft, not yet published/applied. Review/save environment settings and publish, then retry original requests. Current hardware specifications/prices, exact laser/controller/software workflow, German Windows UI/screenshots and commercial license terms remain incomplete. No confirmed purchasing recommendation is made.
 
 Hardware/material test coupons, actual measured thickness/kerf, assembly/bond/usability, thin-lid fixture, supervised cutting/engraving, substantial genuine author contributions, rights/imprint and publisher approval require human work. No commercial/public full-book distribution or publisher submission authorized. Public clone cannot recreate withheld book; retain private source directories in the environment snapshot and private delivery archive.
+
+## 2026-11-05 research addendum
+
+Added `research/GITHUB_BENCHMARK_REPORT.md` (26 repositories, README/licence level; GitHub web/API blocked by proxy 403, so maintenance/tests/releases unverified), `research/VISUAL_PIPELINE_STATUS.md`, `research/IMAGE_PROMPT_TEMPLATE.md` and `quality/IMAGE_VALIDATION_REGISTER.md`. Private sources were absent from this checkout, so no renders, covers, prompts, manuscript changes or edition rebuilds were produced. See VISUAL_PIPELINE_STATUS.md for the continuation plan.
