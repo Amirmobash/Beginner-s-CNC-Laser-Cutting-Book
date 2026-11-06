@@ -16,3 +16,6 @@ __pycache__/
 /BOOK_BIBLE.md
 /scripts/engineer_box.py
 /scripts/create_figures.py
+/book_team/private/
+/book_team/reviews/*_private*
+/book_team/reviews/PILOT_*
