@@ -70,7 +70,7 @@ Retained engineering results inspected, not represented as physical evidence:
 - Chapter7–9 and appendix identifiers, dimensions and existing per-panel file paths were checked. No conflicting machine-ready code or numerical cut-depth recommendation was found, so no technical correction to these dimensions was required.
 - Windows-specific authentic screenshots and exact verified UI operations are still missing. Diagrams must not be represented as screenshots.
 - Laser operation software and CNC sender remain conditional, not a fully chosen and tested production ecosystem. A final book must close that gap rather than treating an unspecified “manufacturer sender” as a complete beginner instruction.
-- The local virtual lettering/CAM study now exists in engineering/cam/VirtualAMIR_Study.FCStd, with recorded endpoint checks and native material-removal simulation. Its hypothetical inputs are not manufacturing settings. A machine-specific production export and actual fixture/process verification still require hardware/tooling decisions.
+- The local virtual lettering/CAM study now exists in the former virtual study file (lost with the original production run; superseded on 2026-11-07 by a Python-based verification of the new sample engraving, see book_team/ENGINEERING_SPEC.md), with recorded endpoint checks and native material-removal simulation. Its hypothetical inputs are not manufacturing settings. A machine-specific production export and actual fixture/process verification still require hardware/tooling decisions.
 - Current safety, publisher and accessibility law checks remain the responsibility of the dedicated research/legal review; no legal compliance conclusion is made here.
 
 ## Release conditions

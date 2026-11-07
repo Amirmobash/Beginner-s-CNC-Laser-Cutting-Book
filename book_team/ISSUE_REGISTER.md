@@ -31,3 +31,13 @@ Pilot origin: Chapter 1, review round 1 (13 reviewers, 2026-11-06), corrections 
 | CH1-022 | 1 | MAJOR | G3 | A19 | DECIDED | Dark hero render vs cream book identity (decision DEC-001: keep as documented hero exception) | A19,A15 |
 | CH1-023 | 1 | MAJOR | G3 | A20 | OPEN | Alt text identical to caption; figure-id prefix in captions; needs layout/accessibility decision | A11 |
 | CH1-024 | 1 | MINOR | G3 | A11 | PARTLY-OPEN | Sentence-level German polish items | A11 |
+| CH8-001 | 8 | MAJOR | G1 | A03 | CLOSED | F30 section depicted a V-notch while the verified model is a flat pocket; redrawn to scale | A03,A14,A13 R4 |
+| CH8-002 | 8 | MAJOR | G1 | A01 | CLOSED | Letter-gap value was computed across lines; recomputed per line (2.0 mm) and text corrected | A01 R4 |
+| CH8-003 | 8 | MAJOR | G2 | A10 | FIXED-PENDING-REVIEW | Tool story (flat end mill vs V-bit) unified in chapters 8, 9 and F30 | A09 |
+| CH8-004 | 8 | MAJOR | G2 | A10 | PARTLY-OPEN | ShapeString exercise made stepwise with numeric targets; beginners may still need screenshots of FreeCAD (none captured: FreeCAD not available) | A13 |
+| CH8-005 | 8 | MINOR | G1 | A03 | OPEN | No 3D material-removal simulation, no depth passes, no entry/exit modelled (stated in text) | A03 |
+| CH8-006 | 8 | MINOR | G3 | A11 | PARTLY-OPEN | Terminology Gravurzone/Schriftzug/Schriftart unified in changed passages; sentence-level polish remains | A11 |
+| COV-001 | cover | MAJOR | G3 | A19 | CLOSED | Cover C: decagonal mat, duplicated label, AMIR removed; thumbnails re-tested | A19 R4 |
+| COV-002 | cover | MINOR | G3 | A19 | OPEN | Polish items (lighting, subtitle hierarchy); cover text 'Dein erstes Holzprojekt' differs from the book title 'CNC & Laser für Einsteiger: Deine erste Geschenkbox aus Holz' - author to decide whether title page and cover text should align | A19,A11 |
+| FIG-001 | 8 | MINOR | G3 | A14 | OPEN | F27 label/leader collisions and F13 crowded text (minor) | A14 R4 |
+| RIGHT-001 | 8 | MAJOR | - | A23 | OPEN | Font Inter SemiBold: licence per package SIL OFL 1.1/Apache-2.0; human licence review required before commercial use | A23 |

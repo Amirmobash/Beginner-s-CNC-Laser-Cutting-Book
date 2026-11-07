@@ -27,6 +27,11 @@ Owner: Agent 01 (Senior Mechanical Design Engineer). Maintained with Agent 02 (C
 - L1 is a thin plate, slightly smaller than the inside footprint (153.4 x 113.4 mm vs 154 x 114 mm), glued to the underside of L0 after the flat engraving; its function is to locate the lid on the walls.
 - Sequence: dry fit, glue the body (walls + B0), engrave L0 flat and separate, attach L1, final check. Recommendation from the pilot review (A01): trial-seat L0 on the body before engraving.
 
+## Reference engraving (decision of the author, 2026-11-07)
+- The product engraving is the German greeting "Frohes Fest" (two lines), with optional examples "Frohe Weihnachten" and "Frohes neues Jahr". No year, no English greetings. The old sample "AMIR" is retired from all product depictions; the author's name remains in cover and metadata only.
+- Font Inter SemiBold (licence per package: SIL OFL 1.1 / Apache-2.0; human licence review still required). Lettering must stay inside the engraving zone with at least 10 mm margin.
+- Digital verification (2D, own calculation; no physical engraving performed; no 3D material-removal simulation): fit in zone, letter gaps within each line, reachability for a 1.0 mm end mill, clearing path inside the zone, clearance to the example clamps. Tool diameter, depth (0.6 mm example) and stepover are verification assumptions, not machining recommendations. Details and geometry files are private.
+
 ## Reconstruction assumptions (NOT stated in the manuscript)
 1. L1 thickness = 3.0 mm; L1 sits inside the wall ring directly under L0 (0.3 mm clearance per side).
 2. Segment parity (counted from the bottom): F0/R0 own segments 1,3,5,7,9; S0/S1 fingers fill 2,4,6,8.

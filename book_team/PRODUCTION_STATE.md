@@ -26,3 +26,11 @@ All three gates were exercised on Chapter 1 with the roles above. Outcome: Gate 
 
 ## Open blockers
 Physical tests, human technical review, author contributions, rights/imprint, publisher requirements, original CAD (lost), German/Windows UI screenshots, remaining chapters not gated, issues CH1-011/014/016/017/018/023/024.
+
+## 2026-11-07 Frohes-Fest correction (author decision)
+- Product engraving changed from the old sample text to "Frohes Fest" (optional: Frohe Weihnachten, Frohes neues Jahr); author name unchanged on cover and metadata. See ENGINEERING_SPEC (Reference engraving).
+- Digital verification of the lettering (private): fit, margins >= 10 mm, per-line letter gaps, tool reach for a 1.0 mm flat end mill, clearing path, clamp clearance: PASS for all three phrases. Not done: 3D material-removal simulation, FreeCAD ShapeString/CAM run (FreeCAD not installed here), physical engraving.
+- Assets regenerated from the shared geometry: F01, F13, F24, F26, F27, F30, F31, F32, F33 and Cover C revision 3 (artwork and typography separate; mat silhouette corrected; no duplicate label). Covers A and B superseded by author preference (archived privately).
+- Agents invoked (separate Claude Code processes, read-only): round 1 on the correction: A01, A03, A07, A09, A11, A13, A14, A15, A16, A19; round 2: A01, A03, A09, A11, A13, A14, A19. No lead reviewer gave PASS on Gate 2 or 3; Chapter 8 and the cover remain REVISION REQUIRED with minor open items (see ISSUE_REGISTER). Loop limit reached; escalated to the author.
+- Editions rebuilt (private): DOCX, PDF (77 pages), HTML, EPUB, reader ZIP. Acceptance scan: no AMIR in manuscript, DOCX/EPUB/HTML/ZIP text, PDF text, or OCR of all 33 figures; the cover shows only the author's name.
+- Not run: EPUBCheck, Ace, DOCX office rendering.
