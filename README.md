@@ -1,5 +1,11 @@
 # CNC & Laser für Einsteiger: Deine erste Geschenkbox aus Holz
 
+
+<p align="center"><img src="docs/images/cnc-laser-wood-gift-box-cutting-guide.svg" alt="Laser cut plywood gift box and CNC lid engraving guide illustration" width="960" /></p>
+
+<sub>Illustrative project schematic; not an actual CAD export, hardware photograph, or independently tested result.</sub>
+
+
 Author: **Amir Mobasheraghdam**. Reader language: German (de-DE), informal “du”. This digital-first technical working manuscript follows one personalized plywood gift box from design and laser cutting to assembly and CNC name engraving on the separate lid.
 
 **Not approved for commercial publication or unattended manufacturing.** No physical prototype has been manufactured in this environment. Current publisher terms, exact hardware suitability, practical machining, rights and genuine human authorship remain review gates.
