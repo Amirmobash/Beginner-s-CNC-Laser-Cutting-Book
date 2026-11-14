@@ -42,3 +42,5 @@ Physical tests, human technical review, author contributions, rights/imprint, pu
 - Validators: EPUBCheck valid (0 messages), Ace pass (0 violations), DOCX rendered with LibreOffice (74 pages), PDF 79 pages, HTML internal links OK, all images with alt text. Not run: Word, real e-reader, screen reader.
 - Private author review package assembled (PDF, DOCX, EPUB, cover, contact sheet, matrix, issues, screenshot inventory, rights list, prototype checklist, approval checklist, German summary).
 
+
+- Build 13 (2026-11-14): du-voice pass, genuine FreeCAD screenshot F35, ch.8 toolpath finding, Appendix H; EPUBCheck valid, Ace 0 violations, PDF 81 pages, DOCX renders in LibreOffice (76 pages). Private review package refreshed. Physical validation, real LightBurn/sender/Windows screenshots, human technical/legal/author approval remain blockers.

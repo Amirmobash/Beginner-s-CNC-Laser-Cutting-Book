@@ -51,3 +51,6 @@ Pilot origin: Chapter 1, review round 1 (13 reviewers, 2026-11-06), corrections 
 | FIN-008 | titles | MINOR | G3 | A19 | CLOSED | Title/subtitle unified across cover, title page, metadata, HTML, EPUB | build check |
 | FIN-009 | pub | MINOR | G3 | A21 | CLOSED | EPUBCheck 0 messages; Ace 0 violations (2026-11-14 build); DOCX opened in LibreOffice only | validators |
 
+| FIN-010 | 8 | CRITICAL | G1 | A03 | OPEN | Engraving toolpath: four FreeCAD variants checked digitally; all contain vertical plunges or rapids in material; not suitable for direct machine execution; operator must define entry/exit in the machine CAM and test on scrap | A03/A04 |
+| FIN-011 | front | MAJOR | G3 | A11 | OPEN | Author profile, foreword and AI-assistance wording drafted as placeholders; author decision and channel check required | A23 |
+| FIN-012 | all | MAJOR | G2 | A09 | OPEN | Late editorial changes (du voice, ch.3/5/8 beginner blocks, Appendix H) corrected but not re-reviewed (beyond two-round limit) | A09/A11/A13 |
