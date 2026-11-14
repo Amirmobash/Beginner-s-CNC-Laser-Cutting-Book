@@ -34,3 +34,11 @@ Physical tests, human technical review, author contributions, rights/imprint, pu
 - Agents invoked (separate Claude Code processes, read-only): round 1 on the correction: A01, A03, A07, A09, A11, A13, A14, A15, A16, A19; round 2: A01, A03, A09, A11, A13, A14, A19. No lead reviewer gave PASS on Gate 2 or 3; Chapter 8 and the cover remain REVISION REQUIRED with minor open items (see ISSUE_REGISTER). Loop limit reached; escalated to the author.
 - Editions rebuilt (private): DOCX, PDF (77 pages), HTML, EPUB, reader ZIP. Acceptance scan: no AMIR in manuscript, DOCX/EPUB/HTML/ZIP text, PDF text, or OCR of all 33 figures; the cover shows only the author's name.
 - Not run: EPUBCheck, Ace, DOCX office rendering.
+
+## 2026-11-14 final QA
+- Unified title and subtitle applied (cover typography, title page, DOCX/PDF/EPUB/HTML metadata).
+- Real FreeCAD 1.0.0 (conda-forge, Linux) run for the engraving study; genuine FreeCAD screenshot F34; depth-coupling pitfall found and documented; G-code independently checked (private).
+- Review rounds: final round 1 (13 roles; 12 first runs failed on a usage limit and were rerun) and round 2 (10 roles). Round 2 findings partly fixed afterwards without re-review (loop limit): list/terminology fixes, broken editor insertions repaired, Appendix A file list, Appendix E table, Inter licence text, F02 enclosure.
+- Validators: EPUBCheck valid (0 messages), Ace pass (0 violations), DOCX rendered with LibreOffice (74 pages), PDF 79 pages, HTML internal links OK, all images with alt text. Not run: Word, real e-reader, screen reader.
+- Private author review package assembled (PDF, DOCX, EPUB, cover, contact sheet, matrix, issues, screenshot inventory, rights list, prototype checklist, approval checklist, German summary).
+

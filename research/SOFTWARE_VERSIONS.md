@@ -1,3 +1,5 @@
+> NOTE 2026-11-14: The manuscript documents Inkscape 1.2.2 (the version actually captured for figure F11, Ubuntu package) and FreeCAD 1.0.0 (conda-forge build, used for the engraving study and figure F34). Entries below that name Inkscape 1.4 come from the earlier production environment and do not describe the screenshots in the current manuscript.
+
 # Software versions and verification
 
 | Component | Version / evidence | Executed in this environment | Windows tutorial status |

@@ -50,3 +50,11 @@ License: bitstream-vera
  Inc., respectively. For further information, contact: fonts at gnome dot
  org.
 
+
+
+---
+Inter (added 2026-11-14)
+Used for: lettering geometry of the sample engraving "Frohes Fest", figure typography in rendered figures, cover typography.
+Version: Inter 4.0 (Debian package fonts-inter 4.0+ds-1).
+Licence: SIL Open Font License 1.1 (upstream LICENSE.txt, github.com/rsms/inter; unmodified copy in FONT_LICENSE_Inter_OFL-1.1.txt). The Debian copyright file lists "OFL-1.1 and Apache-2.0" for the package; upstream states OFL 1.1 only for the font software.
+Status: NOT legally reviewed. Human review required before commercial distribution (embedding in PDF/EPUB/DOCX, outlines in shipped SVG files, reader package).

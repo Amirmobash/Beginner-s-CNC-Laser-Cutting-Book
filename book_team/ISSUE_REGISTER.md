@@ -41,3 +41,13 @@ Pilot origin: Chapter 1, review round 1 (13 reviewers, 2026-11-06), corrections 
 | COV-002 | cover | MINOR | G3 | A19 | OPEN | Polish items (lighting, subtitle hierarchy); cover text 'Dein erstes Holzprojekt' differs from the book title 'CNC & Laser für Einsteiger: Deine erste Geschenkbox aus Holz' - author to decide whether title page and cover text should align | A19,A11 |
 | FIG-001 | 8 | MINOR | G3 | A14 | OPEN | F27 label/leader collisions and F13 crowded text (minor) | A14 R4 |
 | RIGHT-001 | 8 | MAJOR | - | A23 | OPEN | Font Inter SemiBold: licence per package SIL OFL 1.1/Apache-2.0; human licence review required before commercial use | A23 |
+| FIN-001 | 8 | MAJOR | G1 | A03/A04 | OPEN | Engraving only digitally checked: no 3D removal simulation, no forces/deflection, vertical plunges at 1 mm cutter; physical validation required | A03,A04 |
+| FIN-002 | 8 | MAJOR | G2 | A17 | OPEN | FreeCAD menu steps (ShapeString, job, depth coupling) not shown step by step; genuine screenshots pending beyond F34 | A13,A17 |
+| FIN-003 | 3,5,6 | MAJOR | G2 | A17 | BLOCKED | No laser-software, sender, Windows or German-UI screenshots (software/hardware unavailable) | A17 |
+| FIN-004 | all | MAJOR | G3 | A11 | OPEN | Terminology and list formatting partly harmonised; further editorial pass and author voice decision needed | A11 |
+| FIN-005 | all | MAJOR | G1 | A12 | OPEN | Citation markers missing for safety/licence claims; 11 sources uncited | A12 |
+| FIN-006 | rights | MAJOR | - | A23 | OPEN | Asset register, render provenance, F11/F34 screenshot use, font embedding, marks: human/legal review | A23 |
+| FIN-007 | pub | MAJOR | - | A23 | OPEN | Channel, ISBN, imprint, BFSG, current policies, authorship disclosure | A23 |
+| FIN-008 | titles | MINOR | G3 | A19 | CLOSED | Title/subtitle unified across cover, title page, metadata, HTML, EPUB | build check |
+| FIN-009 | pub | MINOR | G3 | A21 | CLOSED | EPUBCheck 0 messages; Ace 0 violations (2026-11-14 build); DOCX opened in LibreOffice only | validators |
+

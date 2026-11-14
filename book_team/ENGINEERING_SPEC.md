@@ -29,7 +29,7 @@ Owner: Agent 01 (Senior Mechanical Design Engineer). Maintained with Agent 02 (C
 
 ## Reference engraving (decision of the author, 2026-11-07)
 - The product engraving is the German greeting "Frohes Fest" (two lines), with optional examples "Frohe Weihnachten" and "Frohes neues Jahr". No year, no English greetings. The old sample "AMIR" is retired from all product depictions; the author's name remains in cover and metadata only.
-- Font Inter SemiBold (licence per package: SIL OFL 1.1 / Apache-2.0; human licence review still required). Lettering must stay inside the engraving zone with at least 10 mm margin.
+- Font Inter SemiBold 4.0 (licence: SIL OFL 1.1 per upstream LICENSE.txt; see publishing/FONT_LICENSE_Inter_OFL-1.1.txt and the Inter entry in publishing/FONT_LICENSE.txt; human licence review still required). Lettering must stay inside the engraving zone with at least 10 mm margin.
 - Digital verification (2D, own calculation; no physical engraving performed; no 3D material-removal simulation): fit in zone, letter gaps within each line, reachability for a 1.0 mm end mill, clearing path inside the zone, clearance to the example clamps. Tool diameter, depth (0.6 mm example) and stepover are verification assumptions, not machining recommendations. Details and geometry files are private.
 
 ## Reconstruction assumptions (NOT stated in the manuscript)

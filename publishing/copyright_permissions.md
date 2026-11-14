@@ -12,3 +12,10 @@
 ## Locally inspected fonts
 
 The digital PDF embeds subset DejaVu Sans family fonts (pdffonts reports embedded=yes, subset=yes, Unicode=yes for all four faces). The installed Debian DejaVu copyright notice was read: it grants use, reproduction, distribution and sale subject to its conditions. The exact notice is retained in FONT_LICENSE.txt with the delivery. This verifies a concrete font license, not every possible future cover/screenshot asset. No fonts were renamed or sold separately.
+
+## Addendum 2026-11-14 (no legal clearance)
+- Inter 4.0: SIL OFL 1.1 per upstream; see FONT_LICENSE.txt and FONT_LICENSE_Inter_OFL-1.1.txt. Human review of embedding/redistribution still required.
+- F11 (Inkscape 1.2.2 screenshot) and F34 (FreeCAD 1.0.0 screenshot): third-party application screenshots; commercial use needs human confirmation. Raw files checked visually for personal data (window titles only).
+- Rendered figures: Blender scenes from original scripts, procedural materials, no third-party textures recorded; render-provenance register still to be written.
+- Full per-asset permission register: open.
+

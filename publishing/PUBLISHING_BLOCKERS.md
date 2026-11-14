@@ -19,3 +19,7 @@
 - Full paid content cannot be pushed into the confirmed public repository without new explicit authorization or a private destination.
 
 These restrictions do not prevent local geometry generation, manuscript drafting or book-format builds. They prevent claims of tested manufacture, final suitability, publisher acceptance or commercial readiness.
+
+## Status 2026-11-14
+Still blocking commercial release: no physical prototype or engraving test; reconstructed (not original) geometry; no 3D machining simulation or force/deflection check; no screenshots for the laser software, sender, Windows or German UI; chapter gates not passed by lead reviewers; no documented human authorship; font, render, screenshot and trademark rights not legally reviewed; publisher channel, ISBN, imprint, BFSG and current publisher policies open. EPUBCheck and Ace passed on the 2026-11-14 build; DOCX was opened only in LibreOffice.
+
