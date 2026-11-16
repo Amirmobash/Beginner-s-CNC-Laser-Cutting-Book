@@ -44,3 +44,5 @@ Physical tests, human technical review, author contributions, rights/imprint, pu
 
 
 - Build 13 (2026-11-14): du-voice pass, genuine FreeCAD screenshot F35, ch.8 toolpath finding, Appendix H; EPUBCheck valid, Ace 0 violations, PDF 81 pages, DOCX renders in LibreOffice (76 pages). Private review package refreshed. Physical validation, real LightBurn/sender/Windows screenshots, human technical/legal/author approval remain blockers.
+
+- Audit round (2026-11-16): seven first-pass reviews, three editors, figure and reader-pack fixes, four independent re-reviews (no automatic PASS). Rebuilt editions: PDF 97 pages, EPUBCheck valid (0 messages), Ace pass, DOCX renders (97 pages in LibreOffice). Cover C revision 4. Bibliography with exact URLs. Physical validation, genuine software screenshots and human technical/legal/author approval remain blockers.

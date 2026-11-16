@@ -54,3 +54,10 @@ Pilot origin: Chapter 1, review round 1 (13 reviewers, 2026-11-06), corrections 
 | FIN-010 | 8 | CRITICAL | G1 | A03 | OPEN | Engraving toolpath: four FreeCAD variants checked digitally; all contain vertical plunges or rapids in material; not suitable for direct machine execution; operator must define entry/exit in the machine CAM and test on scrap | A03/A04 |
 | FIN-011 | front | MAJOR | G3 | A11 | OPEN | Author profile, foreword and AI-assistance wording drafted as placeholders; author decision and channel check required | A23 |
 | FIN-012 | all | MAJOR | G2 | A09 | OPEN | Late editorial changes (du voice, ch.3/5/8 beginner blocks, Appendix H) corrected but not re-reviewed (beyond two-round limit) | A09/A11/A13 |
+| AUD-001 | 8 | CRITICAL | G1 | A07 | CLOSED | Z0 convention contradiction between study and book text; conversion rule added and re-checked | R-A01/A07/A08 |
+| AUD-002 | 8 | MAJOR | G1 | A03 | OPEN | No toolpath variant has a verified safe entry; chapter made optional with acceptance checklist; physical validation required | A03/A04 |
+| AUD-003 | all | MAJOR | G1 | A12 | OPEN | Safety statements without source in S01–S31 labelled; expert review required; 13 citations only partly supported | A12/A08 |
+| AUD-004 | 3,6,8 | MAJOR | G2 | A17 | BLOCKED | Genuine LightBurn, sender, FreeCAD CAM dialog, Windows and German-UI screenshots missing | A17 |
+| AUD-005 | figs | MAJOR | G3 | A14 | OPEN | Seven figures not revised after audit; cover mat colour and lid seam need new render | A14/A19 |
+| AUD-006 | spec | MINOR | G1 | A01 | OPEN | Public ENGINEERING_SPEC.md states 47 checks; model has 48 | A01 |
+| AUD-007 | all | MINOR | G3 | A11 | OPEN | Post-review small corrections not re-reviewed; language status REVISION for ch.1, 4–9 | A11 |
