@@ -59,5 +59,5 @@ Pilot origin: Chapter 1, review round 1 (13 reviewers, 2026-11-06), corrections 
 | AUD-003 | all | MAJOR | G1 | A12 | OPEN | Safety statements without source in S01–S31 labelled; expert review required; 13 citations only partly supported | A12/A08 |
 | AUD-004 | 3,6,8 | MAJOR | G2 | A17 | BLOCKED | Genuine LightBurn, sender, FreeCAD CAM dialog, Windows and German-UI screenshots missing | A17 |
 | AUD-005 | figs | MAJOR | G3 | A14 | OPEN | Seven figures not revised after audit; cover mat colour and lid seam need new render | A14/A19 |
-| AUD-006 | spec | MINOR | G1 | A01 | OPEN | Public ENGINEERING_SPEC.md states 47 checks; model has 48 | A01 |
+| AUD-006 | spec | MINOR | G1 | A01 | CLOSED | Public ENGINEERING_SPEC.md said 47 checks; the actual suite runs 48 (48 unique, all pass; verified by running validate_model.py 2026-11-25); spec corrected. Independent Codex check not performed | A01 |
 | AUD-007 | all | MINOR | G3 | A11 | OPEN | Post-review small corrections not re-reviewed; language status REVISION for ch.1, 4–9 | A11 |

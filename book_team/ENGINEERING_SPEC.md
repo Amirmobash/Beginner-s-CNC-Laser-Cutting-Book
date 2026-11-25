@@ -39,7 +39,7 @@ Owner: Agent 01 (Senior Mechanical Design Engineer). Maintained with Agent 02 (C
 4. Cutting layout (private reconstruction): two columns, 10 mm gaps, about 350 x 411 mm. The original layout size (350 x 362 mm in the old text) could not be reproduced from the documented data and must be treated as unverified.
 
 ## Digital validation status of the reconstruction (2026-11-06)
-47 automated checks passed (panel count, closed contours, bounding boxes, volume = area x thickness, pairwise zero overlap, corner columns fully and exactly filled, complementary segments, L1 clearance, engraving zone inside lid, layout gaps and areas). Digital validation is **not** physical fit verification.
+48 automated checks passed (panel count, closed contours, bounding boxes, volume = area x thickness, pairwise zero overlap, corner columns fully and exactly filled, complementary segments, L1 clearance, engraving zone inside lid, layout gaps and areas). Digital validation is **not** physical fit verification.
 
 ## Not verified / open
 Actual plywood thickness, kerf, joint fit, glue joint, lid fit, laser and CNC process parameters, machine compatibility, any physical result.
